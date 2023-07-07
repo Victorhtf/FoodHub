@@ -1,0 +1,37 @@
+@use '../variables'
+@use '../mixins'
+    
+    
+    
+.container
+    width: 300px
+    flex-direction: column
+    @include mixins.center
+
+    .details
+        display: flex
+        flex-direction: column
+        align-items: center
+        padding: 1rem
+        gap: 1rem
+        border-radius: 30px 7px 30px 7px
+        border: 1px solid #ccc
+        margin-bottom: 1rem
+        
+        .photo
+            width: 100%
+            border-radius: 30px 7px 30px 7px
+
+        .title
+            font-weight: 500
+            color: variables.$font-stack
+
+    button
+        background-color: variables.$button-background-color
+        border: none
+        width: 100px
+        height: 40px
+        border-radius: 30px 7px 30px 7px
+        color: white
+        font-weight: 600
+        
