@@ -53,5 +53,6 @@ We welcome contributions from the community to enhance the FoodHub app. If you w
 Thank you for checking out FoodHub! We hope you enjoy using our web app to order your favorite meals conveniently. If you have any questions or need further information, feel free to reach out. Happy ordering! 🍔🍕🍣
 
 ## Appearance
-![project](https://github.com/Victorhtf/Food-Company/assets/126508458/5a049d49-b1b0-49c4-82b2-088e5733d99e)
+
 ![project](https://github.com/Victorhtf/Food-Company/assets/126508458/8ed9572f-d76d-4cf6-9701-b4dbeb113f6b)
+![project](https://github.com/Victorhtf/Food-Company/assets/126508458/5a049d49-b1b0-49c4-82b2-088e5733d99e)
