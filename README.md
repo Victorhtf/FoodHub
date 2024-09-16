@@ -1,4 +1,4 @@
-# FoodHub - Online Food Delivery Web App
+# POC FoodHub - Online Food Delivery Web App
 
 FoodHub is a web application that aims to simplify the process of ordering food from various restaurants in the city. It serves as a hub where customers can explore menus, add items to their cart, place orders, and have a seamless food ordering experience. The app is built using React, Typescript, Next.js, and Tailwind CSS, with data storage managed through SQL and JSON.
 
